@@ -1,0 +1,62 @@
+header h1  {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(197, 163, 92); 
+    } 
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    } 
+.Barra  {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 900px;
+    background-color: rgb(253, 252, 233);
+    margin: 10px;
+    text-align: center;
+    border-radius: 40px;
+} 
+.Barra button{
+    padding: 10px;
+    color: rgba(89, 90, 53, 0.884);
+    margin: 5px;
+    border-radius: 20px; 
+    width: 150px;
+    border-color: rgb(253, 234, 60);
+    background-color: rgb(249, 218, 92);
+} 
+.Barra img {
+    width: 30px;
+    height: 20px;
+} 
+
+.Card {
+    background-color: rgb(253, 252, 233);
+    padding:0; 
+    border: 2px solid rgb(235, 235, 235);
+    width: 300px;
+    height: 400px;
+    border-radius: 30px;
+    overflow: auto;
+} 
+.Card img {
+    width: 300px;
+    height: 200px; 
+    } 
+.Cost {
+    margin: 10px;
+    padding: 5px;
+    } 
+#bottone {
+    margin: 0;
+    bottom: 130px;
+    left: 80px; 
+    background-color: rgb(249, 218, 92);
+    border-radius: 20px; 
+    padding: 10px;
+    width: 150px;
+    border-color: rgb(253, 234, 60);
+    } 
+.articolo {
+    display: flex;
+    
+    } 
