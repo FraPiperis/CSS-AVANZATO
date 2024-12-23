@@ -114,9 +114,14 @@ body {
         flex-direction: row;
     } 
     .articolo p {
-       font-size: ;
+       font-size: 40px;
     } 
+    .articolo h5 {
+        margin: 0; 
+        font-size: larger;
+     } 
     .articolo img  {
-        font-size: ;
+        width: 600px;
+        height: 400px;
      } 
 } 
